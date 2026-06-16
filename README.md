@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**adityadev0987/adityadev0987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
 
-Here are some ideas to get you started:
+## Currently Building
+- Instagram Clone (Node.js, Express, MongoDB)
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+## Featured Projects
+- Instagram Clone
+- Practice Projects
+- Basic Projects
+
+## GitHub Stats
