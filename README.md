@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://github.com/adityadev0987">GitHub</a> •
+  <a href="https://www.linkedin.com/in/aditya-kumar-das-02a1a7299">LinkedIn</a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/adityadev0987/adityadev0987/main/github%20banner.png" alt="Banner" />
 </p>
 
