@@ -8,11 +8,20 @@
 
 Full Stack Developer
 
-## Currently Building
-- Instagram Clone (Node.js, Express, MongoDB)
-- Data Structures & Algorithms
+## 👨‍💻 About Me
 
+I'm a Full Stack Developer passionate about building web applications and solving real-world problems.
+I enjoy working with JavaScript, Node.js, Express.js, MongoDB, and React while continuously improving my problem-solving and software engineering skills.
+
+## 📚 What I'm Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- Frontend Development
+- Animations
+  
 ## Tech Stack
+
 - HTML
 - CSS
 - JavaScript
@@ -21,9 +30,11 @@ Full Stack Developer
 - Express.js
 - MongoDB
 
-## Featured Projects
-- Instagram Clone
-- Practice Projects
-- Basic Projects
+## 🎯 Goals
+
+- Build production-ready full stack applications
+- Strengthen backend engineering skills
+- Contribute to open source projects
+- Become a better software engineer every day
 
 ## GitHub Stats
