@@ -3,6 +3,8 @@
   <a href="https://www.linkedin.com/in/aditya-kumar-das-02a1a7299">LinkedIn</a>
 </p>
 
+[![GitHub](https://img.shields.io/badge/GitHub-adityadev0987-181717?style=for-the-badge&logo=github)](https://github.com/adityadev0987)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityadev0987/adityadev0987/main/github%20banner.png" alt="Banner" />
 </p>
