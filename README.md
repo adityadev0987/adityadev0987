@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityadev0987/adityadev0987/main/github%20banner.png" alt="Banner" />
+</p>
+
 # Hi, I'm Aditya 👋
 
 Full Stack Developer
